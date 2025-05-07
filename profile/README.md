@@ -11,8 +11,8 @@ At UnifiedBits, we're a team of driven technologists dedicated to building purpo
 - **🌐 Full-Stack Web Applications**  
   Crafting end-to-end digital experiences with robust backend logic and polished frontend interfaces.
 
-- **📱 Android Mobile Apps**  
-  Building responsive and user-centric native applications for the mobile world.
+- 📱 Cross-Platform Mobile Apps
+Building responsive and user-centric applications using Flutter for a seamless experience across Android and iOS.
 
 - **🧠 AI-Powered Solutions**  
   Developing intelligent systems that enhance decision-making and automate complexity.
@@ -34,7 +34,7 @@ At UnifiedBits, we're a team of driven technologists dedicated to building purpo
  └── Database Architecture (PostgreSQL, MongoDB)
 
 📱 Mobile Development
- ├── Native Android (Kotlin)
+ ├── Cross-Platform (Flutter)
  └── Analytics & Crash Monitoring
 
 🧠 AI & Machine Learning
@@ -48,7 +48,7 @@ At UnifiedBits, we're a team of driven technologists dedicated to building purpo
  └── Auto-scaling & Monitoring Solutions
 
 🔄 DevOps Practices
- ├── CI/CD Pipelines (GitHub Actions, Jenkins)
+ ├── CI/CD Pipelines (GitHub Actions)
  ├── Containerization
  └── Automated Testing & Coverage
 ```
