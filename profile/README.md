@@ -11,8 +11,8 @@ At UnifiedBits, we're a team of driven technologists dedicated to building purpo
 - **🌐 Full-Stack Web Applications**  
   Crafting end-to-end digital experiences with robust backend logic and polished frontend interfaces.
 
-- 📱 Cross-Platform Mobile Apps
-Building responsive and user-centric applications using Flutter for a seamless experience across Android and iOS.
+- **📱 Cross-Platform Mobile Apps**  
+  Building responsive and user-centric applications using Flutter for a seamless experience across Android and iOS.
 
 - **🧠 AI-Powered Solutions**  
   Developing intelligent systems that enhance decision-making and automate complexity.
